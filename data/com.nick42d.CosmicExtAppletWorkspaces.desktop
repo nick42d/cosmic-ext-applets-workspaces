@@ -1,0 +1,27 @@
+[Desktop Entry]
+Name=Numbered Workspaces2
+Name[ar]=مساحات عمل مرقمة
+Name[bg]=Номерирани работни пространства
+Name[cs]=Číslované pracovní plochy
+Name[zh_CN]=工作区编号
+Name[hu]=Számozott Munkaterületek
+Name[pl]=Obszary robocze według numeru
+Name[pt]=Áreas de Trabalho Numeradas
+Name[nl]=Genummerde werkbladen
+Name[sk]=Číslované pracovné plochy
+Name[sv]=Numrerade arbetsytor
+Name[es]=Espacios de trabajo numerados
+Name[it]=Spazi di lavoro numerati
+Name[uk]=Нумеровані робочі простори
+Type=Application
+Exec=cosmic-ext-applet-workspaces
+Terminal=false
+Categories=COSMIC;
+Keywords=COSMIC;Iced;
+Icon=com.nick42d.CosmicAppletWorkspaces
+StartupNotify=true
+NoDisplay=true
+X-CosmicApplet=true
+X-HostWaylandDisplay=true
+X-OverflowPriority=5
+X-OverflowMinSize=8
